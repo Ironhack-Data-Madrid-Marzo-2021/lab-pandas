@@ -18,7 +18,9 @@ When you are on `main.ipynb`, read the instructions for each cell and provide yo
 
 ## Deliverables
 
-- `main.ipynb` with your responses to each of the exercises.
+- `pandas_1.ipynb` with your responses to each of the exercises.
+- `pandas_2_concat-merge-join.ipynb` with your responses to each of the exercises.
+
 
 ## Submission
 
@@ -29,3 +31,7 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
 - [Intro to Pandas Data Structures](https://pandas.pydata.org/pandas-docs/stable/dsintro.html)
 - [Descriptive Statistics for Pandas DataFrame](https://chrisalbon.com/python/data_wrangling/pandas_dataframe_descriptive_stats/)
+- [Joining and Merging in Pandas](https://pandas.pydata.org/pandas-docs/stable/merging.html)
+- [pandas.concat](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.concat.html)
+- [pandas.DataFrame.merge](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.merge.html)
+- [pandas.DataFrame.join](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.join.html)
